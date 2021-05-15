@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 description: PhD, Machine Learning, <a href="https://en.uit.no/startsida">UiT The Arctic University of Norway</a>
 
