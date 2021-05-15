@@ -40,6 +40,12 @@ a, table.table a {
   color: var(--global-theme-color);
 }
 
+// About page content alignment justification
+.justification {
+  text-align: justify;
+  text-justify: auto; 
+}
+
 // Profile
 
 .profile {
