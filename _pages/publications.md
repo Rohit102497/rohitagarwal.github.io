@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2020, 1956, 1950, 1935, 1905]
+years: [2020]
 nav: true
 ---
 
