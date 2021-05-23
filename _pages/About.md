@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 description: PhD, Machine Learning, UiT The Arctic University of Norway
