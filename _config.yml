@@ -70,7 +70,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 blog_name: My Unpopular Opinion  # your blog must have a name for it to show up in the nav bar
 blog_description: An unsolicited collection of my thoughts
-permalink: https://rohit-agarwal.medium.com/ #/blog/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
