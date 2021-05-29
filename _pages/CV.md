@@ -6,4 +6,6 @@ description: My academic resume.
 nav: true
 ---
 
-Coming soon.
+<embed src="https://github.com/Rohit102497/rohit102497.github.io/blob/source/assets/cv/CV.pdf" type="application/pdf" width="600px" height="500px" />
+
+
