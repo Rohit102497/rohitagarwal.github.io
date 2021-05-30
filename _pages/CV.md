@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 permalink: /CV/
 title: CV
 description: My academic resume.
